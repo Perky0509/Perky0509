@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there! Welcome to my profile :).
 
-<!--
-**Perky0509/Perky0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: programming a water sensor.
+- 🌱 I’m currently learning: developing my coding skills everyday.
+- 🤓 Previous experience: data analysis at Ipsos MORI (market strategy & understanding).
+- 🤔 I’m looking for: a job in data science.
+- 💡 My preferred industry: tech or finance.
+- 📫 How to reach me: s.boswallperks@gmail.com
+- 🌇 Home town: London, UK.
+  
+### Thanks!
