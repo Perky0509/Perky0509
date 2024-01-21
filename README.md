@@ -9,4 +9,4 @@
 - 📫 How to reach me: s.boswallperks@gmail.com
 - 🌇 Home town: London, UK.
   
-### Thanks!
+
