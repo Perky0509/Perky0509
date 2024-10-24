@@ -2,12 +2,15 @@
 
 
 - 🔭 I’m currently working on:
-     1) programming the components of a new indoor gardening product.
-     2) cleaning and analysing data for report on the state of software engineering in the US. 
-- 🌱 I’m currently learning: micropython and coding harware (using a Raspberry Pi Pico W and Pico). 
+     1) software development of an indoor airquality system. 
+     2) Cloud and data management, and dashboarding logged data from airquality system. 
+- 🌱 I’m currently learning:
+       - micropython and coding harware (using a Raspberry Pi Pico W and Pico).
+       - DBT and data warehousing
+       - Django 
 - 🤓 Previous experience: data insights analyst at Ipsos MORI (market strategy & understanding).
-- 🤔 I’m looking for: a job in data science/analytics.
-- 💡 My preferred industry: tech or finance.
+- 💡Current role: Data analyst and Head of Information & Data Management at Rebel Group.
+
 - 📫 How to reach me: s.boswallperks@gmail.com
 - 🌇 Home town: London, UK.
   
