@@ -9,7 +9,7 @@
        - DBT and data warehousing
        - Django 
 - 🤓 Previous experience: data insights analyst at Ipsos MORI (market strategy & understanding).
-- 💡Current role: Data analyst and Head of Information & Data Management at Rebel Group.
+- 💡Current role: Senior data analyst and Head of Information & Data Management at Rebel Group.
 
 - 📫 How to reach me: s.boswallperks@gmail.com
 - 🌇 Home town: London, UK.
